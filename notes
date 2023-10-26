@@ -1,0 +1,3 @@
+get tracepoints syscalls in location
+/sys/kernel/tracing/events/syscalls/
+
