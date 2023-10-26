@@ -1,3 +1,5 @@
 get tracepoints syscalls in location
 /sys/kernel/tracing/events/syscalls/
 
+show current bpf progs loaded in the system
+bpftool prog list
